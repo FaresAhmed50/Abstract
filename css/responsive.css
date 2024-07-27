@@ -1,0 +1,156 @@
+
+
+
+@media (min-width : 840px) {
+
+    .nav .contaner .nav-butomes .icon {
+
+        display: none;
+
+    }
+
+    
+}
+
+
+
+
+
+
+
+
+
+@media (max-width : 840px){
+
+
+    .nav .contaner .nav-butomes button{
+
+        display: none;
+        justify-content: space-around;
+    }
+
+    .nav .contaner .nav-contant h2:first-of-type{
+
+        margin-left: 10px
+    }
+
+    .nav .contaner .nav-butomes .icon span{
+
+        display: inline-block;
+
+    }
+
+
+}
+
+
+
+@media (max-width : 760px) {
+
+    
+    .about  .contaner .about-contant{
+
+        width: 100%;
+    }
+
+    .about .contaner .about-contant .about-text{
+
+        h3{
+
+            width: 100%;
+        }
+    }
+
+
+}
+
+
+@media (max-width : 739px) {
+
+    .about .contaner .about-contant .about-img{
+
+
+        width: 25%;
+
+        img{
+            width: 100%;
+        }
+    }
+
+
+    .special{
+
+        width: 20%;
+
+
+        img{
+
+            width: 100%;
+        }
+    }
+    
+}
+
+
+
+@media (max-width : 675px){
+
+    
+    .help .contaner h1{
+
+        font-size: 40px;
+    }
+
+
+    
+    .help .contaner input{
+
+        width: 90%;
+    }
+    
+    
+}
+
+
+@media (max-width : 487px) {
+
+
+    .about  .contaner .about-contant{
+
+        width: 100%;
+    }
+
+    .about .contaner .about-contant .about-text{
+
+        h3{
+
+            width: 100%;
+        }
+    }
+
+
+    .about .contaner .about-contant .about-img{
+
+
+        width: 70%;
+
+        img{
+            width: 100%;
+        }
+    }
+
+
+    .special{
+
+        width: 50%;
+
+
+        img{
+
+            width: 100%;
+        }
+    }
+}
+
+
+
